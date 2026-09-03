@@ -14,7 +14,8 @@
   </p>
 
   <p>
-    <a href="https://arxiv.org" target="_blank"><img src="https://img.shields.io/badge/arXiv-2407.01375-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="Paper arXiv"></a>
+    <!-- <a href="https://arxiv.org" target="_blank"><img src="https://img.shields.io/badge/arXiv-2407.01375-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="Paper arXiv"></a> -->
+    <a href="https://arxiv.org" target="_blank"><img src="https://img.shields.io/badge/arXiv?style=flat-square&logo=arxiv&logoColor=white" alt="Paper arXiv"></a>
     <a href="https://andre-portella.github.io/UTC-project-page/" target="_blank"><img src="https://img.shields.io/badge/Project%20Page-%F0%9F%8C%90-007ACC?style=flat-square" alt="Project Page"></a>
     <a href="https://github.com/andre-portella/UTC" target="_blank"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
     <a href="#" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=andre-portella.UTC-project-page" alt="Visitors"></a>
